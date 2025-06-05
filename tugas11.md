@@ -1,5 +1,5 @@
 # 1. Test Request Login API
-![TestRequest](screenshot/tugas11/Test Request.png)
+![TestRequest](screenshot/tugas11/TestRequest.png)
 
 # 2. Body Response
-![BodyResponse](screenshot/tugas11/Body Response.png)
+![BodyResponse](screenshot/tugas11/BodyResponse.png)
